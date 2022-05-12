@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caetanobraga
 - 👀 I’m interested in ... be a dev
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... caetanobraga@gmail.com
 
